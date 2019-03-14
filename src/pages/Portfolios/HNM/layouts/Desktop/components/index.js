@@ -1,0 +1,10 @@
+import HNM1 from './HNM1/HNM1'
+import Text1 from './Text1/Text1'
+import HNM2 from './HNM2/HNM2'
+import Text2 from './Text2/Text2'
+import Carou from './Carou/Carou'
+import Text3 from './Text3/Text3'
+import Gallery from './Gallery/Gallery'
+import Text4 from './Text4/Text4'
+import Text5 from './Text5/Text5'
+export {HNM1, Text1,HNM2, Text2, Carou, Text3, Gallery, Text4, Text5}

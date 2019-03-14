@@ -1,0 +1,62 @@
+@font-face{
+    font-family: "SFUIDisplay-Black";
+    src: local('SFUIDisplay-Black'),
+    url(./fonts/SFUIDisplay-Black.woff) format('woff'),
+    url(./fonts/SFUIDisplay-Black.eot) format('eot'),
+    url(./fonts/SFUIDisplay-Black.svg) format('svg');
+}
+@font-face{
+    font-family: "SFUIDisplay-Bold";
+    src: local('SFUIDisplay-Bold'),
+    url(./fonts/SFUIDisplay-Bold.woff) format('woff'),
+    url(./fonts/SFUIDisplay-Bold.eot) format('eot'),
+    url(./fonts/SFUIDisplay-Bold.svg) format('svg');
+}
+@font-face{
+    font-family: "SFUIDisplay-Heavy";
+    src: local('SFUIDisplay-Heavy'),
+    url(./fonts/SFUIDisplay-Heavy.woff) format('woff'),
+    url(./fonts/SFUIDisplay-Heavy.eot) format('eot');
+}
+@font-face{
+    font-family: "SFUIDisplay-Light";
+    src: local('SFUIDisplay-Light'),
+    url(./fonts/SFUIDisplay-Light.woff) format('woff'),
+    url(./fonts/SFUIDisplay-Light.eot) format('eot'),
+    url(./fonts/SFUIDisplay-Light.svg) format('svg');
+}
+@font-face{
+    font-family: "SFUIDisplay-Medium";
+    src: local('SFUIDisplay-Medium'),
+    url(./fonts/SFUIDisplay-Medium.woff) format('woff'),
+    url(./fonts/SFUIDisplay-Medium.eot) format('eot'),
+    url(./fonts/SFUIDisplay-Medium.svg) format('svg');
+}
+@font-face{
+    font-family: "SFUIDisplay-Regular";
+    src: local('SFUIDisplay-Regular'),
+    url(./fonts/SFUIDisplay-Regular.woff) format('woff'),
+    url(./fonts/SFUIDisplay-Regular.eot) format('eot'),
+    url(./fonts/SFUIDisplay-Regular.svg) format('svg');
+}
+@font-face{
+    font-family: "SFUIDisplay-Semibold";
+    src: local('SFUIDisplay-Semibold'),
+    url(./fonts/SFUIDisplay-Semibold.woff) format('woff'),
+    url(./fonts/SFUIDisplay-Semibold.eot) format('eot'),
+    url(./fonts/SFUIDisplay-Semibold.svg) format('svg');
+}
+@font-face{
+    font-family: "SFUIDisplay-Thin";
+    src: local('SFUIDisplay-Thin'),
+    url(./fonts/SFUIDisplay-Thin.woff) format('woff'),
+    url(./fonts/SFUIDisplay-Thin.eot) format('eot'),
+    url(./fonts/SFUIDisplay-Thin.svg) format('svg');
+}
+@font-face{
+    font-family: "SFUIDisplay-Ultralight";
+    src: local('SFUIDisplay-Ultralight'),
+    url(./fonts/SFUIDisplay-Ultralight.woff) format('woff'),
+    url(./fonts/SFUIDisplay-Ultralight.eot) format('eot'),
+    url(./fonts/SFUIDisplay-Ultralight.svg) format('svg');
+}

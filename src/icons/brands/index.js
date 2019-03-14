@@ -1,0 +1,10 @@
+import bank from './bank.png'
+import gedeon from './gedeon.png'
+import hnm from './hnm.png'
+import nestle from './nestle.png'
+import png from './png.png'
+import ritz from './ritz.png'
+import samsung from './samsung.png'
+import visa from './visa.png'
+import xerox from './xerox.png'
+export {bank, gedeon, hnm, nestle, png, ritz, samsung, visa, xerox}
